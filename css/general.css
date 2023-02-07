@@ -1,0 +1,65 @@
+body {
+    background-color: #B1CFEB;
+}
+
+h1 {
+    font-family: 'Trebuchet MS';
+    color: #144272;
+    padding: 40;
+}
+
+h2 {
+    font-family: 'Trebuchet MS';
+    color: #0081C9;
+}
+
+h3 {
+    font-family: 'Trebuchet MS';
+    color: #3F3B6C
+}
+
+h4 {
+    font-family: 'Trebuchet MS';
+    color: #EB455F
+}
+
+#banner {
+    height: 250px;
+    width: 100%;
+}
+
+nav {
+    background-color: #1A829F;
+    font-family: Comic Sans MS;
+}
+
+p {
+    font-weight: bold;
+    color: #800585;
+}
+
+#ods {
+    float: right;
+}
+
+#cuerpo {
+    font-family: Century Gothic
+}
+
+ol {
+    font-family: 'Trebuchet MS';
+}
+
+#sol {
+    width: 40px;
+    height: 40px;
+}
+
+card-body {
+    float: right;
+}
+
+#Metas {
+    font-family: Bahnschrift SemiBold;
+    color: #EB455F;
+}
